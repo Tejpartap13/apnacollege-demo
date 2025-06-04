@@ -1,4 +1,7 @@
 # apnacollege-demo
 This is my first repository.
 <br>
-Author- Tejpartap Singh
+Author- Tejpartap (Apna College)
+
+
+
